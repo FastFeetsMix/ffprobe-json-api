@@ -4,10 +4,10 @@ This project currently examines a video file using ffprobe to create a JSON outp
 # Original Objective
 Create an API that accepts a url path to a video file. The API must examine the video and return the following data about the video in the specified json format provided.
 
-• File name
-• Duration
-• List of video streams and specified details
-• List of audio streams and specified details
+• File name  
+• Duration  
+• List of video streams and specified details  
+• List of audio streams and specified details  
 • List of caption streams and specified details
 
 # Explanation
