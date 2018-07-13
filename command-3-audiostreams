@@ -1,0 +1,1 @@
+ffprobe -v quiet -of json -show_entries stream=index,sample_rate,codec_name:stream_tags=language -select_streams a http://www.grahamseward.co.uk/ffprobe/sample_1.mp4 > sample_1_audiostreams.json
