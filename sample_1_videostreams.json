@@ -1,0 +1,21 @@
+{
+    "programs": [
+
+    ],
+    "streams": [
+        {
+            "index": 4,
+            "width": 960,
+            "height": 400,
+            "r_frame_rate": "24000/1001",
+            "bit_rate": "861124"
+        },
+        {
+            "index": 5,
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "24000/1001",
+            "bit_rate": "1443777"
+        }
+    ]
+}
