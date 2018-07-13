@@ -1,1 +1,0 @@
-ffprobe -v quiet -of json -show_entries format=filename,duration http://www.grahamseward.co.uk/ffprobe/sample_1.mp4 > sample_1_fileinfo.json
