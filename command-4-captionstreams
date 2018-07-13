@@ -1,0 +1,1 @@
+ffprobe -v quiet -of json -show_entries stream=index:stream_tags=language -select_streams d http://www.grahamseward.co.uk/ffprobe/sample_1.mp4 > sample_1_captionstreams.json
